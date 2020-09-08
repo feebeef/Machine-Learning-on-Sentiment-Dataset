@@ -1,3 +1,9 @@
 
 1-homework/hw1.ipynb
 *.csv
+exploratory.ipynb
+boop.ipynb
+.ipynb_checkpoints/exploratory-checkpoint.ipynb
+.ipynb_checkpoints/boop-checkpoint.ipynb
+PE3-fixed.ipynb
+*.png
